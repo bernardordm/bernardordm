@@ -6,6 +6,12 @@
 
 Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolitana de Belo Horizonte. Com 18 anos, mergulhei no mundo da programação e tecnologia aos 14 e desde então tenho sido um entusiasta. Sou um desenvolvedor de software sempre interessado em novas ferramentas e avanços neste campo. Adoro resolver desafios utilizando recursos inovadores e tecnológicos.
 
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=bernardordm&theme=tokyonight&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=bernardordm&show_icons=true&theme=tokyonight&layout=compact" />
+ </div>
+ 
+
 ## Skills:
 
 - **Ingles - Avançado :** CAE Cambridge (Certificate of Advanced English)  <img style="width : 20px; height: 20px; margin-bottom:100px" src = "https://github.com/bernardordm/bernardordm/blob/main/img/logo_UK.png?raw=true"><img style="width : 20px; height: 20px" src = "https://github.com/bernardordm/bernardordm/blob/main/img/logo_USA.png?raw=true">
@@ -21,7 +27,7 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
-## Ferramentaas de Trabalho
+## Ferramentas de Trabalho
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
