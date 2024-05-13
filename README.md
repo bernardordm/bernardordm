@@ -1,10 +1,12 @@
 
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/bernardordm/bernardordm/blob/main/img/bernardo_header.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
-## Sobre Mim
+
+## Sobre Mim:
+
 Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolitana de Belo Horizonte. Com 18 anos, mergulhei no mundo da programação e tecnologia aos 14 e desde então tenho sido um entusiasta. Sou um desenvolvedor de software sempre interessado em novas ferramentas e avanços neste campo. Adoro resolver desafios utilizando recursos inovadores e tecnológicos.
 
-## Habilidades
+## Habilidades:
 
 - **Linguagens de Programação:** Java, Python, C#
 - **Desenvolvimento Web:** HTML, CSS, JavaScript, React
