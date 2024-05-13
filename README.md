@@ -14,8 +14,7 @@
 - **Banco de Dados:** MySQL, MongoDB
 - **Metodologias:** Scrum, Kanban
 - **Ferramentas:** Git, VS Code, Eclipse
-- **CAE Cambridge (Certificate of Advanced English)  <img style="width : 50px; height 50px" src = "https://github.com/bernardordm/bernardordm/blob/main/img/logo_UK.png?raw=true">
- <img style="width : 50px; height 50px" src = "https://github.com/bernardordm/bernardordm/blob/main/img/logo_USA.png?raw=true">
+- **CAE Cambridge (Certificate of Advanced English)  <img style="width : 20px; height: 20px;" src = "https://github.com/bernardordm/bernardordm/blob/main/img/logo_UK.png?raw=true"><img style="width : 20px; height: 20px" src = "https://github.com/bernardordm/bernardordm/blob/main/img/logo_USA.png?raw=true">
 
 ## Linguagens e Tecnologias:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
