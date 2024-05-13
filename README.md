@@ -6,13 +6,8 @@
 
 Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolitana de Belo Horizonte. Com 18 anos, mergulhei no mundo da programação e tecnologia aos 14 e desde então tenho sido um entusiasta. Sou um desenvolvedor de software sempre interessado em novas ferramentas e avanços neste campo. Adoro resolver desafios utilizando recursos inovadores e tecnológicos.
 
-## Habilidades:
+## Skills:
 
-- **Linguagens de Programação:** Java, Python, C#
-- **Desenvolvimento Web:** HTML, CSS, JavaScript, React
-- **Banco de Dados:** MySQL, MongoDB
-- **Metodologias:** Scrum, Kanban
-- **Ferramentas:** Git, VS Code, Eclipse
 - **Ingles - Avançado :** CAE Cambridge (Certificate of Advanced English)  <img style="width : 20px; height: 20px; margin-bottom:100px" src = "https://github.com/bernardordm/bernardordm/blob/main/img/logo_UK.png?raw=true"><img style="width : 20px; height: 20px" src = "https://github.com/bernardordm/bernardordm/blob/main/img/logo_USA.png?raw=true">
 
 ## Linguagens e Tecnologias:
