@@ -49,5 +49,8 @@ Breve descrição do projeto e suas tecnologias principais.
 - [Nome do Projeto/Open Source]: Breve descrição da contribuição.
 
 ## Meus contatos:
-<a href= "https://www.instagram.com/bernardordm_/" > ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)" </a>
-Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
+<a href= "https://www.instagram.com/bernardordm_/" > ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
+<a href= "https://www.linkedin.com/in/bernardo-de-resende-marcelino-1167071b9/" > ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href= "https://www.linkedin.com/in/bernardo-de-resende-marcelino-1167071b9/" > ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> bresende66@gmail.com
+
+
