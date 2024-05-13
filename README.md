@@ -1,5 +1,6 @@
 
-![Header](./img/bernardoheader.png)
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/bernardordm/bernardordm/blob/main/img/bernardo_header.png?raw=true" />
+&nbsp;&nbsp;&nbsp;
 ## Sobre Mim
 
 - 👨‍🎓 **Graduação**: Engenharia de Software na PUC Minas.
