@@ -26,6 +26,14 @@
 ## Estudando :
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+
+## Ferramentaas de Trabalho
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+
 ## Projetos Destacados
 
 ### [Nome do Projeto]
@@ -40,10 +48,6 @@ Breve descrição do projeto e suas tecnologias principais.
 
 - [Nome do Projeto/Open Source]: Breve descrição da contribuição.
 
-## Contato
-
-- **E-mail:** bresende66@gmail.com
-- **Twitter:** [Seu Perfil no Twitter]
-- **LinkedIn:** [Seu Perfil no LinkedIn]
-
+## Minhas Redes sociais:
+<a href= "https://www.instagram.com/bernardordm_/" src = "![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)">
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
