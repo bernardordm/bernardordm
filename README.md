@@ -48,6 +48,6 @@ Breve descrição do projeto e suas tecnologias principais.
 
 - [Nome do Projeto/Open Source]: Breve descrição da contribuição.
 
-## Minhas Redes sociais:
-<a href= "https://www.instagram.com/bernardordm_/" src = "![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)">
+## Meus contatos:
+<a href= "https://www.instagram.com/bernardordm_/" > ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)" </a>
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
