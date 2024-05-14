@@ -39,8 +39,7 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
  <div style = "display : flex">
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=bresende66">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=bresende66" alt="Data Card for Spotify">
-</a>
-  ![Alt text]i<img src = "https://spotify-recently-played-readme.vercel.app/api?user=bresende66"/>
+</a> <img src = "https://spotify-recently-played-readme.vercel.app/api?user=bresende66"/>
   </div>
 ## Projetos Destacados
 
