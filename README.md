@@ -71,7 +71,19 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
 ## Meus principais Repositórios:
 <div>
  <div>
-  <img>
+   <a href= "https://github.com/bernardordm/JavaScript"> 
+  <img src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositorio_JS.png?raw=true"/>
+   <a/>
+ </div>
+ <div>
+   <a href= "https://github.com/bernardordm/Linguagem-C"> 
+  <img src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositorio_C.png?raw=true"/>
+   <a/>
+ </div>
+ <div>
+  <a href= "https://github.com/bernardordm/Projetos_Web"> 
+  <img src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositorio_Web.png?raw=true"/>
+   <a/>
  </div>
 </div>
 
