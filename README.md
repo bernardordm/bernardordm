@@ -4,7 +4,7 @@
 
 ## Sobre Mim:
 
-Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolitana de Belo Horizonte. Com 18 anos, mergulhei no mundo da programação e tecnologia aos 14 e desde então tenho sido um entusiasta. Sou um desenvolvedor de software sempre interessado em novas ferramentas e avanços neste campo. Adoro resolver desafios utilizando recursos inovadores e tecnológicos.
+Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolitana de Belo Horizonte. Com 18 anos, mergulhei no mundo da programação e tecnologia aos 14 e desde então tenho sido um entusiasta. Ja fiz curso técnico profissionalizante de Automação Industrial no SENAI de Pedro Leopoldo (2021-2022), atualmente estou cursando Engenharia de Software na PUC Minas. Hoje, sou um desenvolvedor fullstack, sempre interessado em novas ferramentas e avanços neste campo. Adoro resolver desafios utilizando recursos inovadores e tecnológicos, motivado pela vontade de aprender e sempre estar adquirindo novos conhecimentos.
 
 
 
