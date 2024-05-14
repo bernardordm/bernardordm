@@ -69,7 +69,7 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
 
 -----
 ## Meus principais Repositórios:
-<div>
+<div height :200>
  <div>
    <a href= "https://github.com/bernardordm/JavaScript"> 
   <img src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositiorio_JS.png?raw=true"/>
