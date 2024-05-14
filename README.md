@@ -68,19 +68,13 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
 </div>
 
 -----
-## Projetos Destacados
+## Meus principais Repositórios:
+<div>
+ <div>
+  <img>
+ </div>
+</div>
 
-### [Nome do Projeto]
-
-Breve descrição do projeto e suas tecnologias principais.
-
-### [Nome do Projeto]
-
-Breve descrição do projeto e suas tecnologias principais.
-
-## Contribuições
-
-- [Nome do Projeto/Open Source]: Breve descrição da contribuição.
 
 ## Contatos:
 <a href= "https://www.instagram.com/bernardordm_/" > ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
