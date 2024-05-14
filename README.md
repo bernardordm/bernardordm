@@ -56,7 +56,7 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
 </div>
 <div>
 <img src = "https://spotify-recently-played-readme.vercel.app/api?user=bresende66"/>
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bresende66&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+ <img src = "https://spotify-github-profile.vercel.app/api/view?uid=bresende66&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" />
 </div>
 </div>
 
