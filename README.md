@@ -28,6 +28,7 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
 ![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
 ## Ferramentas de Trabalho
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -48,7 +49,7 @@ Breve descrição do projeto e suas tecnologias principais.
 
 - [Nome do Projeto/Open Source]: Breve descrição da contribuição.
 
-## Meus contatos:
+## Contatos:
 <a href= "https://www.instagram.com/bernardordm_/" > ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
 <a href= "https://www.linkedin.com/in/bernardo-de-resende-marcelino-1167071b9/" > ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:bresende66@gmail.com">
@@ -56,12 +57,16 @@ Breve descrição do projeto e suas tecnologias principais.
 </a>
 
 
-██████╗ ███████╗███████╗███████╗███╗   ██╗██████╗ ███████╗
-██╔══██╗██╔════╝██╔════╝██╔════╝████╗  ██║██╔══██╗██╔════╝
-██████╔╝█████╗  ███████╗█████╗  ██╔██╗ ██║██║  ██║█████╗  
-██╔══██╗██╔══╝  ╚════██║██╔══╝  ██║╚██╗██║██║  ██║██╔══╝  
-██║  ██║███████╗███████║███████╗██║ ╚████║██████╔╝███████╗
-╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═══╝╚═════╝ ╚══════╝
+ ________  _______   ________  ________   ________  ________  ________  ________          ________  _______   ________  _______   ________   ________  _______      
+|\   __  \|\  ___ \ |\   __  \|\   ___  \|\   __  \|\   __  \|\   ___ \|\   __  \        |\   __  \|\  ___ \ |\   ____\|\  ___ \ |\   ___  \|\   ___ \|\  ___ \     
+\ \  \|\ /\ \   __/|\ \  \|\  \ \  \\ \  \ \  \|\  \ \  \|\  \ \  \_|\ \ \  \|\  \       \ \  \|\  \ \   __/|\ \  \___|\ \   __/|\ \  \\ \  \ \  \_|\ \ \   __/|    
+ \ \   __  \ \  \_|/_\ \   _  _\ \  \\ \  \ \   __  \ \   _  _\ \  \ \\ \ \  \\\  \       \ \   _  _\ \  \_|/_\ \_____  \ \  \_|/_\ \  \\ \  \ \  \ \\ \ \  \_|/__  
+  \ \  \|\  \ \  \_|\ \ \  \\  \\ \  \\ \  \ \  \ \  \ \  \\  \\ \  \_\\ \ \  \\\  \       \ \  \\  \\ \  \_|\ \|____|\  \ \  \_|\ \ \  \\ \  \ \  \_\\ \ \  \_|\ \ 
+   \ \_______\ \_______\ \__\\ _\\ \__\\ \__\ \__\ \__\ \__\\ _\\ \_______\ \_______\       \ \__\\ _\\ \_______\____\_\  \ \_______\ \__\\ \__\ \_______\ \_______\
+    \|_______|\|_______|\|__|\|__|\|__| \|__|\|__|\|__|\|__|\|__|\|_______|\|_______|        \|__|\|__|\|_______|\_________\|_______|\|__| \|__|\|_______|\|_______|
+                                                                                                                \|_________|                                        
+                                                                                                                                                                    
+                                                                                                                                                                    
 
 
         
