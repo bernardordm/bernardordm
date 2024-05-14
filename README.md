@@ -36,16 +36,19 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=bernardordm&theme=transparent&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=bernardordm&show_icons=true&theme=transparent&layout=compact" />
  </div>
+
+## Meus interesses pessoais :
+ -  💻 No Back End, Gosto de desenvolver em linguagem C, e sou um entusiasta de Python
+ - 👨🏻‍💻  No Front End, gosto de desenvolver utilizando HTML,CSS e Javascript, com frameworks como Bootstrap e estou aprendendo TypeScript.
+ - ⚽ Meus Hobbies são : academia 🏋🏻‍♂️, futebol (torço para o Cruzeiro 🦊💙), gosto de jogar Fifa, Valorant e outros jogos 🎮, também toco violão e guitarra 🎸
+
+ 
  <div style = "display : flex">
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=bresende66">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=bresende66" alt="Data Card for Spotify">
 </a> 
   </div>
   
-## Meus interesses pessoais :
- -  💻 No Back End, Gosto de desenvolver em linguagem C, e sou um entusiasta de Python
- - 👨🏻‍💻  No Front End, gosto de desenvolver utilizando HTML,CSS e Javascript, com frameworks como Bootstrap e estou aprendendo TypeScript.
- - ⚽ Meus Hobbies são : academia 🏋🏻‍♂️, futebol (torço para o Cruzeiro 🦊💙), gosto de jogar Fifa, Valorant e outros jogos 🎮, também toco violão e guitarra 🎸
 
   -----
 
