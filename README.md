@@ -6,11 +6,7 @@
 
 Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolitana de Belo Horizonte. Com 18 anos, mergulhei no mundo da programação e tecnologia aos 14 e desde então tenho sido um entusiasta. Sou um desenvolvedor de software sempre interessado em novas ferramentas e avanços neste campo. Adoro resolver desafios utilizando recursos inovadores e tecnológicos.
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=bernardordm&theme=transparent&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=bernardordm&show_icons=true&theme=transparent&layout=compact" />
- </div>
- 
+
 
 ## Skills:
 
@@ -34,6 +30,12 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=bernardordm&theme=transparent&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=bernardordm&show_icons=true&theme=transparent&layout=compact" />
+ </div>
+ 
 
 ## Projetos Destacados
 
