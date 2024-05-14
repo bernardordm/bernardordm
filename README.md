@@ -39,8 +39,27 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
  <div style = "display : flex">
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=bresende66">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=bresende66" alt="Data Card for Spotify">
-</a> <img src = "https://spotify-recently-played-readme.vercel.app/api?user=bresende66"/>
+</a> 
   </div>
+
+
+  -----
+
+<div>
+<div>
+<details>
+<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Resende's Spotify Data</summary>
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=bresende66">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=bresende66" alt="Data Card for Spotify">
+</a> <img src = "https://spotify-recently-played-readme.vercel.app/api?user=bresende66"/>
+</details>
+</div>
+<div>
+<img src = "https://spotify-recently-played-readme.vercel.app/api?user=bresende66"/>
+</div>
+</div>
+
+-----
 ## Projetos Destacados
 
 ### [Nome do Projeto]
