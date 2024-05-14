@@ -12,7 +12,7 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
 
 - **Ingles - Avançado :** CAE Cambridge (Certificate of Advanced English)  <img style="width : 20px; height: 20px; margin-bottom:100px" src = "https://github.com/bernardordm/bernardordm/blob/main/img/logo_UK.png?raw=true"><img style="width : 20px; height: 20px" src = "https://github.com/bernardordm/bernardordm/blob/main/img/logo_USA.png?raw=true">
 
-## Linguagens e Tecnologias  : <img height="20" alt="GIF" src="https://github.com/bernardordm/bernardordm/blob/main/img/skills.gif?raw=true"/>
+##  <img height="20" alt="GIF" src="https://github.com/bernardordm/bernardordm/blob/main/img/skills.gif?raw=true"/> Linguagens e Tecnologias  : 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -31,7 +31,7 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-## Github Stats : <img height="30" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>
+## <img height="30" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/> Github Stats : 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=bernardordm&theme=transparent&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=bernardordm&show_icons=true&theme=transparent&layout=compact" />
