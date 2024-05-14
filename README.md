@@ -41,7 +41,11 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=bresende66" alt="Data Card for Spotify">
 </a> 
   </div>
-
+  
+## Meus interesses pessoais :
+ -  💻 No Back End, Gosto de desenvolver em linguagem C, e sou um entusiasta de Python
+ - 👨🏻‍💻  No Front End, gosto de desenvolver utilizando HTML,CSS e Javascript, com frameworks como Bootstrap e estou aprendendo TypeScript.
+ - ⚽ Meus Hobbies são : academia 🏋🏻‍♂️, futebol (torço para o Cruzeiro 🦊💙), gosto de jogar Fifa, Valorant e outros jogos 🎮, também toco violão e guitarra 🎸
 
   -----
 
