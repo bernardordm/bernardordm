@@ -74,5 +74,5 @@ Breve descrição do projeto e suas tecnologias principais.
         
 
 
- <img src = "https://capsule-render.vercel.app/api?type=waving&height=200&color=1303fc&text=Obrigado%20pela%20visita!&section=footer&fontColor=fcfcfc">
+ <img src = "https://capsule-render.vercel.app/api?type=waving&height=200&color=0324fc&text=Obrigado%20pela%20visita!&section=footer&fontColor=fcfcfc&fontSize=40">
 
