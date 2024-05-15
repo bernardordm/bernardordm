@@ -80,7 +80,7 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
  - 👨🏻‍💻  No Front End, gosto de desenvolver utilizando HTML,CSS e Javascript, com frameworks como Bootstrap e estou aprendendo TypeScript.<br></br>
  - ⚽ Meus Hobbies são : academia 🏋🏻‍♂️, futebol (torço para o Cruzeiro 🦊💙), gosto de jogar Fifa, Skyrim e outros jogos 🎮, também toco violão e guitarra 🎸<br></br>
 </p>
-<img height ="300" width ="450"  src ="https://github.com/bernardordm/bernardordm/blob/main/img/DevGif.gif?raw=true">
+<img height ="300" width ="1080"  src ="https://github.com/bernardordm/bernardordm/blob/main/img/DevGif.gif?raw=true">
  
  <div style = "display : flex">
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=bresende66">
