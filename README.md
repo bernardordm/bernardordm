@@ -36,40 +36,8 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=bernardordm&theme=transparent&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=bernardordm&show_icons=true&theme=transparent&layout=compact" />
  </div>
- 
 
-## Meus interesses pessoais :
- -  💻 No Back End, Gosto de desenvolver em linguagem C, e sou um entusiasta de Python
- - 👨🏻‍💻  No Front End, gosto de desenvolver utilizando HTML,CSS e Javascript, com frameworks como Bootstrap e estou aprendendo TypeScript.
- - ⚽ Meus Hobbies são : academia 🏋🏻‍♂️, futebol (torço para o Cruzeiro 🦊💙), gosto de jogar Fifa, Valorant e outros jogos 🎮, também toco violão e guitarra 🎸
-
- 
- <div style = "display : flex">
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=bresende66">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=bresende66" alt="Data Card for Spotify">
-</a> 
-  </div>
-  
-
-  -----
-
-<div height "100">
-<div>
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Resende's Spotify Data</summary>
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=bresende66">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=bresende66" alt="Data Card for Spotify">
-</a> <img src = "https://spotify-recently-played-readme.vercel.app/api?user=bresende66"/>
-</details>
-</div>
-<div>
-<img src = "https://spotify-recently-played-readme.vercel.app/api?user=bresende66"/>
- <img src = "https://spotify-github-profile.vercel.app/api/view?uid=bresende66&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" />
-</div>
-</div>
-
------
-## Meus principais Repositórios:
+ ## Meus principais Repositórios:
 <div>
 <table>
  <tr>
@@ -104,6 +72,39 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
  </tr>
 </table>
 </div>
+ 
+
+## Meus interesses pessoais :
+ -  💻 No Back End, Gosto de desenvolver em linguagem C, e sou um entusiasta de Python
+ - 👨🏻‍💻  No Front End, gosto de desenvolver utilizando HTML,CSS e Javascript, com frameworks como Bootstrap e estou aprendendo TypeScript.
+ - ⚽ Meus Hobbies são : academia 🏋🏻‍♂️, futebol (torço para o Cruzeiro 🦊💙), gosto de jogar Fifa, Valorant e outros jogos 🎮, também toco violão e guitarra 🎸
+
+ 
+ <div style = "display : flex">
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=bresende66">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=bresende66" alt="Data Card for Spotify">
+</a> 
+  </div>
+  
+
+  -----
+
+<div height "100">
+<div>
+<details>
+<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Resende's Spotify Data</summary>
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=bresende66">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=bresende66" alt="Data Card for Spotify">
+</a> <img src = "https://spotify-recently-played-readme.vercel.app/api?user=bresende66"/>
+</details>
+</div>
+<div>
+<img src = "https://spotify-recently-played-readme.vercel.app/api?user=bresende66"/>
+ <img src = "https://spotify-github-profile.vercel.app/api/view?uid=bresende66&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" />
+</div>
+</div>
+
+-----
 
 ## Contatos:
 <a href= "https://www.instagram.com/bernardordm_/" > ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
