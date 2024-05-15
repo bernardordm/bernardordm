@@ -36,6 +36,8 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=bernardordm&theme=transparent&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=bernardordm&show_icons=true&theme=transparent&layout=compact" />
  </div>
+ 
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=flaviojuniordev&color=blueviolet"/>
 
 ## Meus interesses pessoais :
  -  💻 No Back End, Gosto de desenvolver em linguagem C, e sou um entusiasta de Python
