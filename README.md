@@ -73,7 +73,7 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
 <div height :200>
  <div>
    <a href= "https://github.com/bernardordm/JavaScript"> 
-  <img align="right" height="250" width="250" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositiorio_JS.png?raw=true"/>
+  <img align="left" height="250" width="250" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositiorio_JS.png?raw=true"/>
    <a/>
  </div>
  <div>
