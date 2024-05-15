@@ -104,7 +104,6 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
  </tr>
 </table>
 </div>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ## Contatos:
 <a href= "https://www.instagram.com/bernardordm_/" > ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
