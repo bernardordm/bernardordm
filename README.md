@@ -71,26 +71,38 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
 -----
 ## Meus principais Repositórios:
 <div>
+<table>
+ <tr>
+  <td>
  <div>
    <a href= "https://github.com/bernardordm/JavaScript"> 
-  <img align ="right" height="200" width="200" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositiorio_JS.png?raw=true"/>
-   <a/>
+  <img height="200" width="200" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositiorio_JS.png?raw=true"/>
+  </a>
  </div>
+</td>
+<td>
  <div>
    <a href= "https://github.com/bernardordm/Linguagem-C"> 
-  <img align="right" height="200" width="200" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositorio_C.png?raw=true"/>
-   <a/>
+  <img height="200" width="200" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositorio_C.png?raw=true"/>
+   </a>
  </div>
+</td>
+<td>
  <div>
    <a href= "https://github.com/bernardordm/Trabalho_int1"> 
-  <img align="right" height="200" width="200" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositório_TIAW.png?raw=true"/>
-   <a/>
+  <img height="200" width="200" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositório_TIAW.png?raw=true"/>
+  </a>
  </div>
+</td>
+<td>
  <div>
   <a href= "https://github.com/bernardordm/Projetos_Web"> 
-  <img height="200" width="200" align ="right" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositorio_Web.png?raw=true"/>
-   <a/>
+  <img height="200" width="200" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositorio_Web.png?raw=true"/>
+   </a>
  </div>
+ </td>
+ </tr>
+</table>
 </div>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
