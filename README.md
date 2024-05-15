@@ -1,5 +1,5 @@
 
-<img align="center" height = "300" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/bernardordm/bernardordm/blob/main/img/bernardo_header.png?raw=true" />
+<img align="center" height = "250" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/bernardordm/bernardordm/blob/main/img/bernardo_header.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
 
 ## Sobre Mim:
