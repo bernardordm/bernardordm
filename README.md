@@ -82,6 +82,12 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
    <a/>
  </div>
  <div>
+   <a href= "https://github.com/bernardordm/Trabalho_int1"> 
+  <img align="right" height="250" width="250" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositorio_TI.png?raw=true"/>
+   <a/>
+ </div>
+    
+ <div>
   <a href= "https://github.com/bernardordm/Projetos_Web"> 
   <img height="250" width="250" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositorio_Web.png?raw=true"/>
    <a/>
