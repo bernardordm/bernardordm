@@ -77,7 +77,7 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
  </div>
  <div>
    <a href= "https://github.com/bernardordm/Linguagem-C"> 
-  <img height="250" width="250" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositorio_C.png?raw=true"/>
+  <img align="right" height="250" width="250" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositorio_C.png?raw=true"/>
    <a/>
  </div>
  <div>
