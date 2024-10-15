@@ -4,7 +4,11 @@
 
 ## Sobre Mim:
 
-Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolitana de Belo Horizonte. Com 18 anos, mergulhei no mundo da programação e tecnologia aos 14 e desde então tenho sido um entusiasta. Ja fiz curso técnico profissionalizante de Automação Industrial no SENAI de Pedro Leopoldo (2021-2022), atualmente estou cursando Engenharia de Software na PUC Minas. Hoje, sou um desenvolvedor fullstack, sempre interessado em novas ferramentas e avanços neste campo. Adoro resolver desafios utilizando recursos inovadores e tecnológicos, motivado pela vontade de aprender e sempre estar adquirindo novos conhecimentos.
+Olá! Sou Bernardo, desenvolvedor fullstack e entusiasta de tecnologia, residente em Pedro Leopoldo, na região metropolitana de Belo Horizonte. Desde os 14 anos, quando comecei a explorar o mundo da programação, me apaixonei pelo potencial transformador da tecnologia. Aos 18, continuo dedicado a essa jornada, sempre buscando soluções criativas e inovadoras para os desafios que encontro.
+
+Concluí um curso técnico profissionalizante de Automação Industrial no SENAI (2021-2022) e, atualmente, estou cursando Engenharia de Software na PUC Minas. Minha formação técnica, aliada ao interesse constante por novas ferramentas e avanços no campo, me permite abordar problemas complexos com uma visão sistêmica e soluções tecnológicas atualizadas.
+
+Sou movido pela vontade de aprender e de evoluir, sempre adquirindo novos conhecimentos para me manter atualizado com as demandas da indústria. Se você procura alguém com paixão por resolver desafios e uma visão moderna de desenvolvimento de software, estou pronto para colaborar!
 
 
 
@@ -18,6 +22,11 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## Estudando :
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -30,6 +39,8 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 ## <img height="30" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/> Github Stats <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=bernardordm&theme=transparent"/> : 
 <div  align="center" style="margin-bottom:100px">
@@ -78,7 +89,7 @@ Olá ! Sou Bernardo, morador de Pedro Leopoldo, uma cidade na região metropolit
 <p>
  -  💻 No Back End, Gosto de desenvolver em linguagem C, e sou um entusiasta de Python <br></br>
  - 👨🏻‍💻  No Front End, gosto de desenvolver utilizando HTML,CSS e Javascript, com frameworks como Bootstrap e estou aprendendo TypeScript.<br></br>
- - ⚽ Meus Hobbies são : academia 🏋🏻‍♂️, futebol (torço para o Cruzeiro 🦊💙), gosto de jogar Fifa, Skyrim e outros jogos 🎮, também toco violão e guitarra 🎸<br></br>
+ - ⚽ Meus Hobbies são : academia 🏋🏻‍♂️, futebol (torço para o Cruzeiro 🦊💙), gosto de jogar Fifa, Counter Strike e outros jogos 🎮, também toco violão e guitarra 🎸<br></br>
 </p>
 <img height ="300" width ="1080"  src ="https://github.com/bernardordm/bernardordm/blob/main/img/DevGifs.gif?raw=true">
  
