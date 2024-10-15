@@ -14,7 +14,7 @@ Sou movido pela vontade de aprender e de evoluir, sempre adquirindo novos conhec
 
 ## Skills:
 
-- **Ingles - Avançado :** CAE Cambridge (Certificate of Advanced English)  <img style="width : 20px; height: 20px; margin-bottom:100px" src = "https://github.com/bernardordm/bernardordm/blob/main/img/logo_UK.png?raw=true"><img style="width : 20px; height: 20px" src = "https://github.com/bernardordm/bernardordm/blob/main/img/logo_USA.png?raw=true">
+- **Ingles - Avançado :** CAE Cambridge (Certificate of Advanced English)  <img style="width : 20px; height: 20px; margin-bottom:100px" src = "https://github.com/bernardordm/bernardordm/blob/main/img/logo_UK.png?raw=true"> - <img style="width : 20px; height: 20px" src = "https://github.com/bernardordm/bernardordm/blob/main/img/logo_USA.png?raw=true">
 
 ##  <img height="20" alt="GIF" src="https://github.com/bernardordm/bernardordm/blob/main/img/skills.gif?raw=true"/> Linguagens e Tecnologias  : 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
