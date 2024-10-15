@@ -68,13 +68,6 @@ Sou movido pela vontade de aprender e de evoluir, sempre adquirindo novos conhec
 </td>
 <td>
  <div>
-   <a href= "https://github.com/bernardordm/Easy_Training"> 
-  <img height="200" width="200" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositorio_EasyTraining.png?raw=true"/>
-  </a>
- </div>
-</td>
-<td>
- <div>
   <a href= "https://github.com/bernardordm/Projetos_Web"> 
   <img height="200" width="200" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositorio_Web.png?raw=true"/>
    </a>
@@ -85,6 +78,20 @@ Sou movido pela vontade de aprender e de evoluir, sempre adquirindo novos conhec
  <div>
   <a href= "https://github.com/bernardordm/Java"> 
   <img height="200" width="200" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositorio_Java.png?raw=true"/>
+   </a>
+ </div>
+ </td>
+ <td>
+ <div>
+   <a href= "https://github.com/bernardordm/Easy_Training"> 
+  <img height="200" width="200" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositorio_EasyTraining.png?raw=true"/>
+  </a>
+ </div>
+</td>
+  <td>
+ <div>
+  <a href= "https://github.com/bernardordm/HotelDescansoGarantido"> 
+  <img height="200" width="200" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositorio_Hotel.png?raw=true"/>
    </a>
  </div>
  </td>
