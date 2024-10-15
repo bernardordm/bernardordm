@@ -68,8 +68,8 @@ Sou movido pela vontade de aprender e de evoluir, sempre adquirindo novos conhec
 </td>
 <td>
  <div>
-   <a href= "https://github.com/bernardordm/Trabalho_int1"> 
-  <img height="200" width="200" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositório_TIAW.png?raw=true"/>
+   <a href= "https://github.com/bernardordm/Easy_Training"> 
+  <img height="200" width="200" src = "https://github.com/bernardordm/bernardordm/blob/main/img/Repositório_EasyTraining.png?raw=true"/>
   </a>
  </div>
 </td>
