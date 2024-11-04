@@ -4,7 +4,7 @@
 
 ## Sobre Mim:
 
-Olá! Sou Bernardo, desenvolvedor fullstack e entusiasta de tecnologia, residente em Pedro Leopoldo, na região metropolitana de Belo Horizonte. Desde os 14 anos, quando comecei a explorar o mundo da programação, me apaixonei pelo potencial transformador da tecnologia. Aos 18, continuo dedicado a essa jornada, sempre buscando soluções criativas e inovadoras para os desafios que encontro.
+Olá! Sou Bernardo, desenvolvedor fullstack e entusiasta de tecnologia, residente da região metropolitana de Belo Horizonte. Desde os 14 anos, quando comecei a explorar o mundo da programação, me apaixonei pelo potencial transformador da tecnologia. Aos 18, continuo dedicado a essa jornada, sempre buscando soluções criativas e inovadoras para os desafios que encontro.
 
 Concluí um curso técnico profissionalizante de Automação Industrial no SENAI (2021-2022) e, atualmente, estou cursando Engenharia de Software na PUC Minas. Minha formação técnica, aliada ao interesse constante por novas ferramentas e avanços no campo, me permite abordar problemas complexos com uma visão sistêmica e soluções tecnológicas atualizadas.
 
