@@ -8,7 +8,7 @@ Olá! Sou Bernardo, desenvolvedor fullstack e entusiasta de tecnologia, resident
 
 Concluí um curso técnico profissionalizante de Automação Industrial no SENAI (2021-2022) e, atualmente, estou cursando Engenharia de Software na PUC Minas. Minha formação técnica, aliada ao interesse constante por novas ferramentas e avanços no campo, me permite abordar problemas complexos com uma visão sistêmica e soluções tecnológicas atualizadas.
 
-Sou movido pela vontade de aprender e de evoluir, sempre adquirindo novos conhecimentos para me manter atualizado com as demandas da indústria. Se você procura alguém com paixão por resolver desafios e uma visão moderna de desenvolvimento de software, estou pronto para colaborar!
+Sou movido pela vontade constante de aprender e evoluir, sempre adquirindo novos conhecimentos para me manter atualizado com as demandas do mercado e das novas tecnologias.
 
 
 
