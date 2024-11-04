@@ -117,28 +117,20 @@ Sou movido pela vontade constante de aprender e evoluir, sempre adquirindo novos
 </p>
 <img height ="300" width ="1080"  src ="https://github.com/bernardordm/bernardordm/blob/main/img/DevGifs.gif?raw=true">
  
+
+  
+
+  -----
+  <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Resende's Spotify Data</summary>
  <div style = "display : flex">
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=bresende66">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=bresende66" alt="Data Card for Spotify">
 </a> 
   </div>
-  
-
-  -----
-
 <div height "100">
-<div>
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Resende's Spotify Data</summary>
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=bresende66">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=bresende66" alt="Data Card for Spotify">
-</a> <img src = "https://spotify-recently-played-readme.vercel.app/api?user=bresende66"/>
-</details>
 </div>
-<div>
-<img src = "https://spotify-recently-played-readme.vercel.app/api?user=bresende66"/>
- <img src = "https://spotify-github-profile.vercel.app/api/view?uid=bresende66&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" />
 </div>
+
 </div>
 
 -----
