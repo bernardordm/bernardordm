@@ -120,21 +120,6 @@ Sou movido pela vontade constante de aprender e evoluir, sempre adquirindo novos
 
   
 
-  -----
-  <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Resende's Spotify Data</summary>
- <div style = "display : flex">
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=bresende66">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=bresende66" alt="Data Card for Spotify">
-</a> 
-  </div>
-<div height "100">
-</div>
-</div>
-
-</div>
-
------
-
 ## Contatos:
 <a href= "https://www.instagram.com/bernardordm_/" > ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
 <a href= "https://www.linkedin.com/in/bernardo-de-resende-marcelino-1167071b9/" > ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
