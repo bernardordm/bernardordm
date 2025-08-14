@@ -111,9 +111,9 @@ Sou movido pela vontade constante de aprender e evoluir, sempre adquirindo novos
 
 ## Meus interesses pessoais :
 <p>
- -  💻 No Back End, Gosto de desenvolver em linguagem C, e sou um entusiasta de Python <br></br>
- - 👨🏻‍💻  No Front End, gosto de desenvolver utilizando HTML,CSS e Javascript, com frameworks como Bootstrap e estou aprendendo TypeScript.<br></br>
- - ⚽ Meus Hobbies são : academia 🏋🏻‍♂️, futebol (torço para o Cruzeiro 🦊💙), gosto de jogar Fifa, Counter Strike e outros jogos 🎮, também toco violão e guitarra 🎸<br></br>
+ -  💻 No Back End, Gosto de desenvolver em Java, Node.JS, e sou um entusiasta de Python <br></br>
+ - 👨🏻‍💻  No Front End, gosto de desenvolver utilizando HTML,CSS e Javascript, com frameworks como React e Next.<br></br>
+ - ⚽ Meus Hobbies são : academia 🏋🏻‍♂️, futebol 🦊💙, gosto de jogar Fifa, Counter Strike e outros jogos 🎮, também toco violão e guitarra 🎸<br></br>
 </p>
 <img height ="300" width ="1080"  src ="https://github.com/bernardordm/bernardordm/blob/main/img/DevGifs.gif?raw=true">
  
