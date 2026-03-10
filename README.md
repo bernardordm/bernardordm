@@ -6,10 +6,10 @@
 
 Olá! Sou **Bernardo**, Engenheiro de Software Full Stack apaixonado por criar soluções escaláveis e eficientes. [cite_start]Atualmente, foco no ecossistema **JavaScript/TypeScript**, construindo aplicações de alto impacto que unem interfaces refinadas a arquiteturas de backend robustas. [cite: 63, 64]
 
-- [cite_start]🏢 Atualmente na **M2C Digital**, desenvolvendo microsserviços e sistemas de mensageria em larga escala. [cite: 71, 73]
-- [cite_start]🎓 Cursando Engenharia de Software na **PUC Minas**. [cite: 60]
-- [cite_start]🛠️ Experiência com arquitetura de microsserviços, mensageria (**RabbitMQ**) e cache (**Redis**). [cite: 74]
-- [cite_start]🌎 Inglês: **Intermediário (Cambridge B1)**.
+- 🏢 Atualmente na **M2C Digital**, desenvolvendo microsserviços e sistemas de mensageria em larga escala. [cite: 71, 73]
+- 🎓 Cursando Engenharia de Software na **PUC Minas**. [cite: 60]
+- 🛠️ Experiência com arquitetura de microsserviços, mensageria (**RabbitMQ**) e cache (**Redis**). [cite: 74]
+- 🌎 Inglês: **(Cambridge B1)**.
 
 Sou movido pela vontade constante de aprender e evoluir, sempre adquirindo novos conhecimentos para me manter atualizado com as demandas do mercado e das novas tecnologias.
 
