@@ -14,11 +14,6 @@ Olá! Sou **Bernardo**, Engenheiro de Software Full Stack apaixonado por criar s
 Sou movido pela vontade constante de aprender e evoluir, sempre adquirindo novos conhecimentos para me manter atualizado com as demandas do mercado e das novas tecnologias.
 
 
-
-## Skills:
-
-- **Ingles - Avançado :** CAE Cambridge (Certificate of Advanced English)  <img style="width : 20px; height: 20px; margin-bottom:100px" src = "https://github.com/bernardordm/bernardordm/blob/main/img/logo_UK.png?raw=true">     <img style="width : 20px; height: 20px" src = "https://github.com/bernardordm/bernardordm/blob/main/img/logo_USA.png?raw=true">
-
 ##  <img height="20" alt="GIF" src="https://github.com/bernardordm/bernardordm/blob/main/img/skills.gif?raw=true"/> Linguagens e Tecnologias  : 
 
 ### Frontend & Mobile
