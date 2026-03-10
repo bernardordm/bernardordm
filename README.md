@@ -2,11 +2,14 @@
 <img align="center" height = "250" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/bernardordm/bernardordm/blob/main/img/bernardo_header.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
 
-## Sobre Mim:
+## 🚀 Sobre Mim
 
-Olá! Sou Bernardo, desenvolvedor fullstack e entusiasta de tecnologia, residente da região metropolitana de Belo Horizonte. Desde os 14 anos, quando comecei a explorar o mundo da programação, me apaixonei pelo potencial transformador da tecnologia. Aos 18, continuo dedicado a essa jornada, sempre buscando soluções criativas e inovadoras para os desafios que encontro.
+Olá! Sou **Bernardo**, Engenheiro de Software Full Stack apaixonado por criar soluções escaláveis e eficientes. [cite_start]Atualmente, foco no ecossistema **JavaScript/TypeScript**, construindo aplicações de alto impacto que unem interfaces refinadas a arquiteturas de backend robustas. [cite: 63, 64]
 
-Concluí um curso técnico profissionalizante de Automação Industrial no SENAI (2021-2022) e, atualmente, estou cursando Engenharia de Software na PUC Minas. Minha formação técnica, aliada ao interesse constante por novas ferramentas e avanços no campo, me permite abordar problemas complexos com uma visão sistêmica e soluções tecnológicas atualizadas.
+- [cite_start]🏢 Atualmente na **M2C Digital**, desenvolvendo microsserviços e sistemas de mensageria em larga escala. [cite: 71, 73]
+- [cite_start]🎓 Cursando Engenharia de Software na **PUC Minas**. [cite: 60]
+- [cite_start]🛠️ Experiência com arquitetura de microsserviços, mensageria (**RabbitMQ**) e cache (**Redis**). [cite: 74]
+- [cite_start]🌎 Inglês: **Intermediário (Cambridge B1)**.
 
 Sou movido pela vontade constante de aprender e evoluir, sempre adquirindo novos conhecimentos para me manter atualizado com as demandas do mercado e das novas tecnologias.
 
@@ -17,24 +20,32 @@ Sou movido pela vontade constante de aprender e evoluir, sempre adquirindo novos
 - **Ingles - Avançado :** CAE Cambridge (Certificate of Advanced English)  <img style="width : 20px; height: 20px; margin-bottom:100px" src = "https://github.com/bernardordm/bernardordm/blob/main/img/logo_UK.png?raw=true">     <img style="width : 20px; height: 20px" src = "https://github.com/bernardordm/bernardordm/blob/main/img/logo_USA.png?raw=true">
 
 ##  <img height="20" alt="GIF" src="https://github.com/bernardordm/bernardordm/blob/main/img/skills.gif?raw=true"/> Linguagens e Tecnologias  : 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend & Mobile
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+### Backend
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ## Estudando :
 
-![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## Ferramentas de Trabalho
+## Ferramentas 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
