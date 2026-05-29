@@ -108,5 +108,5 @@ Main areas of interest:
 
 ---
 
- <img src = "https://capsule-render.vercel.app/api?type=waving&height=120&color=0324fc&text=Obrigado!%20/%20Thank%20you!&section=footer&fontColor=fcfcfc&fontSize=40">
+ <img src = "https://capsule-render.vercel.app/api?type=waving&height=180&color=0324fc&text=Obrigado!%20/%20Thank%20you!&section=footer&fontColor=fcfcfc&fontSize=40">
 
