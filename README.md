@@ -2,6 +2,14 @@
 <img align="center" height = "250" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/bernardordm/bernardordm/blob/main/img/bernardo_header.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
 
+## 🌎 Portfolio
+
+<p align="center">
+  <a href="https://bernardoresende.vercel.app/" target="_blank">
+    bernardoresende.vercel.app
+  </a>
+</p>
+
 <p align="center">
   Software Engineer • Backend-Focused Full Stack Developer <br/>
   Node.js • NestJS • React • TypeScript • RabbitMQ • Redis
