@@ -2,19 +2,65 @@
 <img align="center" height = "250" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/bernardordm/bernardordm/blob/main/img/bernardo_header.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
 
-## 🚀 Sobre Mim
+# Bernardo Resende
 
-Olá! Sou **Bernardo**, Engenheiro de Software Full Stack apaixonado por criar soluções escaláveis e eficientes.Atualmente, foco no ecossistema **JavaScript/TypeScript**, construindo aplicações de alto impacto que unem interfaces refinadas a arquiteturas de backend robustas. 
+<h1 align="center">Hi, I'm Bernardo Resende 👋</h1>
 
-- 🏢 Atualmente na **M2C Digital**, desenvolvendo microsserviços e sistemas de mensageria em larga escala.
-- 🎓 Cursando Engenharia de Software na **PUC Minas**.
-- 🛠️ Experiência com arquitetura de microsserviços, mensageria (**RabbitMQ**) e cache (**Redis**).
-- 🌎 Inglês: **(Cambridge B1)**.
+<p align="center">
+  Software Engineer • Backend-Focused Full Stack Developer <br/>
+  Node.js • NestJS • React • TypeScript • RabbitMQ • Redis
+</p>
 
-Sou movido pela vontade constante de aprender e evoluir, sempre adquirindo novos conhecimentos para me manter atualizado com as demandas do mercado e das novas tecnologias.
+---
+
+## 🇧🇷 Sobre mim
+
+Sou Engenheiro de Software com foco em desenvolvimento backend, sistemas distribuídos e arquiteturas de microsserviços escaláveis.
+
+Atualmente atuo na M2C Digital, desenvolvendo aplicações e plataformas de mensageria em larga escala utilizando tecnologias modernas como Node.js, NestJS, RabbitMQ, Redis, PostgreSQL e Docker.
+
+Tenho experiência no desenvolvimento de APIs robustas, processamento assíncrono, integração entre serviços e otimização de performance para aplicações de alta demanda.
+
+Minha principal área de interesse envolve:
+
+* Microsserviços
+* Sistemas distribuídos
+* Mensageria assíncrona
+* Arquitetura backend
+* Cloud Computing
+* Performance e escalabilidade
+* 🏢 Software Engineer **M2C Digital**
+* 🎓 Bacharelado em Engenharia de Software **PUC Minas**
+* ⚡ Focado em sistemas escaláveis, processamento assincrono e arquiteturas distribuidas
+* 🌎 Inglês: Cambridge B1
+
+---
+
+## 🇺🇸 About Me
+
+Software Engineer focused on backend development, distributed systems, and scalable microservices architectures.
+
+Currently working at M2C Digital building high-scale messaging platforms and backend applications using modern technologies such as Node.js, NestJS, RabbitMQ, Redis, PostgreSQL, and Docker.
+
+Experienced in building robust APIs, asynchronous processing workflows, service integrations, and performance optimization for high-demand applications.
+
+Main areas of interest:
+
+* Microservices
+* Distributed Systems
+* Asynchronous Messaging
+* Backend Architecture
+* Cloud Computing
+* Scalability & Performance
+* 🏢 Software Engineer at **M2C Digital**
+* 🎓 Software Engineering student at **PUC Minas**
+* ⚡ Focused on scalable systems, asynchronous processing, and distributed architectures
+* 🌎 English: Cambridge B1
+---
 
 
-##  <img height="20" alt="GIF" src="https://github.com/bernardordm/bernardordm/blob/main/img/skills.gif?raw=true"/> Linguagens e Tecnologias  : 
+
+##  <img height="20" alt="GIF" src="https://github.com/bernardordm/bernardordm/blob/main/img/skills.gif?raw=true"/> Tech Stack : 
 
 ### Frontend & Mobile
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -36,45 +82,35 @@ Sou movido pela vontade constante de aprender e evoluir, sempre adquirindo novos
 ![MongoDB](https://img.shields.io/badge/MongoDB-4169E1?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
-## Estudando :
-
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## Ferramentas 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/AndroidStudio-FE7A16.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+## Featured Areas
 
+* High-scale messaging systems
+* Asynchronous processing with RabbitMQ
+* Distributed microservices
+* Redis caching strategies
+* REST APIs with NestJS
+* Scalable backend architectures
+* Full Stack web applications
+
+---
+## GitHub Stats
 ## <img height="30" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/> Github Stats <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=bernardordm&theme=transparent"/> : 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=bernardordm&theme=transparent&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=bernardordm&show_icons=true&theme=transparent&layout=compact" />
  </div>
-
-## Meus interesses pessoais :
-<p>
- -  💻 No Back End, Gosto de desenvolver em Java, Node.JS, e sou um entusiasta de Python <br></br>
- - 👨🏻‍💻  No Front End, gosto de desenvolver utilizando HTML,CSS e Javascript, com frameworks como React e Next.<br></br>
- - ⚽ Meus Hobbies são : academia 🏋🏻‍♂️, futebol 🦊💙, gosto de jogar Fifa, Counter Strike e outros jogos 🎮, também toco violão e guitarra 🎸<br></br>
-</p>
-<img height ="300" width ="1080"  src ="https://github.com/bernardordm/bernardordm/blob/main/img/DevGifs.gif?raw=true">
- 
 
   
 
-## Contatos:
-<a href= "https://www.instagram.com/bernardoresendem/" > ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
-<a href= "https://www.linkedin.com/in/bernardo-resende1167071b9/" > ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:bresende66@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+## 🌎 Onde me encontrar • Where to find me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/bernardoresendem/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square\&logo=gmail\&logoColor=white)](mailto:bresende66@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/bernardordm)
+
+---
 
 ```text
 
@@ -94,5 +130,5 @@ Sou movido pela vontade constante de aprender e evoluir, sempre adquirindo novos
         
 
 
- <img src = "https://capsule-render.vercel.app/api?type=waving&height=200&color=0324fc&text=Obrigado%20pela%20visita!&section=footer&fontColor=fcfcfc&fontSize=40">
+ <img src = "https://capsule-render.vercel.app/api?type=waving&height=200&color=0324fc&text=Obrigado!%20/%20Thank%20you!&section=footer&fontColor=fcfcfc&fontSize=40">
 
